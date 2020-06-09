@@ -1,1 +1,1 @@
-echo `date`
+touch ~/tteesstt.txt
